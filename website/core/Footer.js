@@ -52,7 +52,7 @@ class Footer extends React.Component {
               Join Slack{" "}
             </a>
             <a
-              href="https://twitter.com/"
+              href="https://twitter.com/intent/follow?screen_name=QuestDB"
               target="@QuestDB"
               rel="noreferrer noopener"
             >
